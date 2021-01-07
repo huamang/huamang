@@ -7,4 +7,6 @@
 <p align="center">✨ Listening to music </p>
 </div>
 <h1 align="center"></h1>
-[YenKoc还看呢](https://github-readme-stats.vercel.app/api?huamang=anuraghazra&show_icons=true&theme=dracula)
+<p align="center">
+<a href="https://github.com/huamamg"><img src="https://github-readme-stats.vercel.app/api?username=huamang&hide_border=true&show_icons=true"></a>
+</p>
