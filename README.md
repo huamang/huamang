@@ -7,6 +7,5 @@
 <p align="center">✨ Listening to music </p>
 </div>
 <h1 align="center"></h1>
-<p align="center">
+
 [![github stats](https://github-readme-stats.vercel.app/api?username=huamang&show_icons=true&theme=dracula)](https://github.com/huamang)
-</p>
