@@ -6,7 +6,6 @@
 <p align="center"> 🏃 Basketball / Coding</p>
 <p align="center">✨ Listening to music </p>
 </div>
-[![github stats](https://github-readme-stats.vercel.app/api?username=huamang&show_icons=true&theme=dracula)](https://github.com/huamang)
 <p align="center">
   <a href="https://github.com/huamang"><img src="https://github-readme-stats.vercel.app/api?username=huamang&show_icons=true&theme=dracula"></a>
 </p>
