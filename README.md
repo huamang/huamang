@@ -8,4 +8,4 @@
 </div>
 <h1 align="center"></h1>
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=huamang&show_icons=true&theme=dracula)](https://github.com/huamang)
+[!github stats](https://github-readme-stats.vercel.app/api?username=huamang&show_icons=true&theme=dracula)](https://github.com/huamang)
