@@ -8,5 +8,5 @@
 </div>
 <h1 align="center"></h1>
 <p align="center">
-<a href="https://github.com/huamamg"><img src="https://github-readme-stats.vercel.app/api?username=huamang&hide_border=true&show_icons=true"></a>
+[![github stats](https://github-readme-stats.vercel.app/api?username=huamang&show_icons=true&theme=dracula)](https://github.com/huamang)
 </p>
