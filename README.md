@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://www.huamanggg.cn/">Huamang</a>!</h1> 
+<h1 align="center">Hi, I'm Huamang!</h1> 
 <div align="center"> 
 <p >🍻 Junior at 🇨🇳 JXNU</p>
 <p >⚡ PHP & Python & JAVA </p>
