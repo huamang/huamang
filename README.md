@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Huamang!</h1> 
 <div align="center"> 
-<p >🍻 Junior at 🇨🇳 JXNU</p>
 <p >⚡ PHP & Python & JAVA </p>
 <p align="center"> ✍️ Writer at <a href="https://blog.csdn.net/m0_51078229?spm=1000.2115.3001.5343">CSDN</a>and<a href="https://www.huamang.xyz/">My Blog</a></p>
 <p align="center"> 🏃 Exercises & Coding</p>
