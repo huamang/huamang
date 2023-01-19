@@ -1,6 +1,3 @@
 <h1 align="center">Hi, I'm SilentStone!</h1> 
-<div align="center"> 
-<p >⚡ PHP & Python & JAVA </p>
 <p align="center"> ✍️ Writer at <a href="https://blog.huamang.xyz/">My Blog</a></p>
-<p align="center"> 🎧 Music & ⌨️ Coding</p>
-<p align="center">🚩Web&Misc</p>
+[![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fseventeenman&countColor=%23263759)](https://github.com/seventeenman)
