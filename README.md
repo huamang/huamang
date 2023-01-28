@@ -1,2 +1,8 @@
-<h1 align="center">Hi, I'm SilentStone!</h1> 
-<p align="center"> ✍️ Writer at <a href="https://blog.huamang.xyz/">My Blog</a></p>
+<h3 align="center">Hi, I'm SilentStone!</h3>
+
+```yaml
+- Blog: https://blog.huamang.xyz/
+- Languages: Python, PHP, Java, Golang
+- Interest: Web_Security
+- Goals: Tool_Development, Penetration
+```
