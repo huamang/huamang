@@ -2,7 +2,7 @@
 
 ```yaml
 - Blog: https://blog.huamang.xyz/
-- Languages: Python, PHP, Java, Golang
+- Dev: Python, PHP, Java, Golang
 - Interest: Web_Security
 - Goals: Tool_Development, Penetration
 ```
